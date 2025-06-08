@@ -85,9 +85,7 @@ Medium Article: [Leveraging Machine Learning for Early Detection of Breast Cance
 
 ### 6. Pitch Deck
 
-Canva: [Click here to view the pitch deck](https://www.canva.com/design/DAGkhHKB2nE/4NGYR78VfXFHdwwSbZVddA/edit?utm_content=DAGkhHKB2nE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-
+Canva (View Only): [Click here to view the pitch deck](https://www.canva.com/design/DAGkhHKB2nE/LaBcRTpgxHJNafXgXATZtw/view?utm_content=DAGkhHKB2nE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9eee19338a)
 
 ## Ethical Considerations
 
