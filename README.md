@@ -77,17 +77,16 @@ Metrics (accuracy, precision, recall, F1)
 
 ### 4. Run the Web App
 
-App Link: [`breast-cancer-machine-learning-predictor`](https://github.com/your-username/breast-cancer-machine-learning-predictor/blob/main/app/streamlit_app.py)
+App Link: [breast-cancer-machine-learning-predictor](https://breast-cancer-machine-learning-predict.streamlit.app/)
 
-The app provides an interactive interface to input features (e.g., radius, texture, perimeter, area, smoothness, etc.) and receive predictions (benign or malignant) from the trained model.
+### 5. Blog link:
 
-### 5. Blog Link:
-
-Medium Article: [Leveraging Machine Learning for Early Detection of Breast Cancer – Supporting SDG 3 (Good Health & Well-being)](https://medium.com/@codegnerdev/leveraging-machine-learning-for-early-detection-of-breast-cancer-supporting-sdg-3-good-health-10af8aff3153)
+Medium Article: [Leveraging Machine Learning for Early Detection of Breast Cancer - Supporting SDG 3](https://medium.com/@codegnerdev/leveraging-machine-learning-for-early-detection-of-breast-cancer-supporting-sdg-3-good-health-10af8aff3153)
 
 ### 6. Pitch Deck
 
-**Pitch Deck on Canva**: [View Pitch Deck](https://www.canva.com/design/DAGkhHKB2nE/4NGYR78VfXFHdwwSbZVddA/edit?utm_content=DAGkhHKB2nE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Canva: [Click here to view the pitch deck](https://www.canva.com/design/DAGkhHKB2nE/4NGYR78VfXFHdwwSbZVddA/edit?utm_content=DAGkhHKB2nE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
 
 ## Ethical Considerations
