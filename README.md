@@ -125,6 +125,7 @@ figures/feature_importance.png
 
 ## Project Structure
 
+```
 ├── app/
 │ └── streamlit_app.py # Streamlit web application
 ├── data/
@@ -142,6 +143,8 @@ figures/feature_importance.png
 ├── requirements.txt
 └── README.md
 
+```
+
 ## Disclaimer
 
 This tool is for educational and demonstrational use only. It should not be used for medical diagnosis. Always consult a licensed medical professional for health concerns.
@@ -151,7 +154,7 @@ This tool is for educational and demonstrational use only. It should not be used
 ## Author
 
 👤 **Fred Kibutu**  
-🌐 [Portfolio](https://kibutujr.github.io/Portfolio-KibutuJr/)  
+🌐 [Portfolio](https://kibutujr.vercel.app/)  
 💻 [GitHub Profile: KibutuJr](https://github.com/KibutuJr/)
 
 ## License
